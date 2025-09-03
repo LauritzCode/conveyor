@@ -21,6 +21,6 @@ void submitInfo(int a, int b) {
 }
 
 int main(void) {
-  submitInfo(5, 1000);
+  submitInfo(3, 17);
   return 0;
 }
